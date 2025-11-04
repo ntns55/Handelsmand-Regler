@@ -591,6 +591,7 @@ INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT mainstuff\Niv2.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
@@ -602,6 +603,9 @@ INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT mainstuff\Niv3.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
 INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
@@ -616,13 +620,9 @@ INPUT mainstuff\Niv4.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Vareudvalg Niv. 4.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Vareudvalg Niv. 4.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Vareudvalg Niv. 4.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
 INPUT ..\Evne-Ordbog\Vareudvalg\Det Sorte Marked.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Det Sorte Marked.tex
 INPUT ..\Evne-Ordbog\Vareudvalg\Det Sorte Marked.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
@@ -631,11 +631,6 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv1.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
@@ -680,18 +675,18 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Slagsbror Niv 3.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Speciale.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Urtesamler.tex
