@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  4 NOV 2025 19:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  8 NOV 2025 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1187,7 +1187,7 @@ Package hyperref Info: Link coloring ON on input line 31.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=194, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=198, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 34.
@@ -1290,7 +1290,7 @@ Kapitel 2.
 (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=257, 495.14487pt x 82.34865pt>
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=262, 495.14487pt x 82.34865pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 5.
@@ -1358,14 +1358,18 @@ Overfull \hbox (45.72786pt too wide) in paragraph at lines 7--23
 
 [7]
 Kapitel 4.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 20.
-(../Evne-Ordbog/Investorer/Investorer Niv 3.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--23
+(../Evne-Ordbog/Investorer/Investorer Niv 3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--1
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 2--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
@@ -1455,12 +1459,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--21
 [12]
 Kapitel 6.
 (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--29
+Underfull \hbox (badness 10000) in paragraph at lines 2--30
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--31
+(../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex (../Evne-Ordbog/GenerelleEvner/Evner/BonkDesc.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 1--32
 
  []
 
@@ -1470,40 +1474,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--31
 
 
 ] (../Evne-Ordbog/GenerelleEvner/Evner/Brug af pistol.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--33
+Underfull \hbox (badness 10000) in paragraph at lines 2--34
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--35
+(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex (../Evne-Ordbog/GenerelleEvner/Evner/Bære PersonDesc.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex)
+(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex (../Evne-Ordbog/GenerelleEvner/Evner/FrøstehjælpDesc.tex))
 
-[14] (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 5.
+[14] (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex (../Evne-Ordbog/GenerelleEvner/Evner/MinearbejderDesc.tex
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 4.
  (C:\Users\niels\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-)) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
+))) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Samler.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[15]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
-) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex))
+(../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex
+
+[16]))
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
 
-[16] 
+[17] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1511,20 +1512,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D56B7CB6FEB2908D1BA6859672F11669;5032.
+(rerunfilecheck)             Checksum: D16A3EA1A7A01D583167194B06BDAD37;5121.
  ) 
 Here is how much of TeX's memory you used:
- 37140 strings out of 468149
- 741079 string characters out of 5431082
- 1216990 words of memory out of 5000000
- 64849 multiletter control sequences out of 15000+600000
+ 37058 strings out of 468149
+ 740171 string characters out of 5431082
+ 1212990 words of memory out of 5000000
+ 64752 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,21n,124p,916b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,21n,124p,916b,667s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (17 pages, 4362712 bytes).
+Output written on main.pdf (18 pages, 4362313 bytes).
 PDF statistics:
- 509 PDF objects out of 1000 (max. 8388607)
+ 516 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
- 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 479 words of extra memory for PDF output out of 10000 (max. 10000000)
 
